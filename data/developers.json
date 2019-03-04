@@ -89,7 +89,15 @@
   },
   {
     "_id": 112,
-    "email": "@nwmissouri.edu"
+    "email": "S534780@nwmissouri.edu",
+    "given": "Anusha",
+    "family": "Kalyankar",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/anushakalyankar"
+
   },
   {
     "_id": 113,
